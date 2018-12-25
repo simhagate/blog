@@ -4,6 +4,7 @@ description: a blog about my adventures with and without code
 baseurl: '/blog' 
 permalink: /blog/:categories/:year/:month/:day/:title.html
 
+markdown: kramdown
 
 redcarpet:
     extensions: ["fenced_code_blocks","footnotes"]
