@@ -1,7 +1,7 @@
 title: Josh Branchaud
 description: a blog about my adventures with and without code
 
-url: http://joshbranchaud.com
+baseurl: '/blog' 
 permalink: /blog/:categories/:year/:month/:day/:title.html
 
 markdown: redcarpet
